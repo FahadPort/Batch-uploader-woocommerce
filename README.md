@@ -1,0 +1,1 @@
+# Batch-uploader-woocommerce
